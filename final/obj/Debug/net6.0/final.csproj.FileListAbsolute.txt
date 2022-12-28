@@ -1,0 +1,15 @@
+C:\Git lessons\Block final\FinalTask\final\bin\Debug\net6.0\final.exe
+C:\Git lessons\Block final\FinalTask\final\bin\Debug\net6.0\final.deps.json
+C:\Git lessons\Block final\FinalTask\final\bin\Debug\net6.0\final.runtimeconfig.json
+C:\Git lessons\Block final\FinalTask\final\bin\Debug\net6.0\final.dll
+C:\Git lessons\Block final\FinalTask\final\bin\Debug\net6.0\final.pdb
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\final.csproj.AssemblyReference.cache
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\final.AssemblyInfoInputs.cache
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\final.AssemblyInfo.cs
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\final.csproj.CoreCompileInputs.cache
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\final.dll
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\refint\final.dll
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\final.pdb
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\final.genruntimeconfig.cache
+C:\Git lessons\Block final\FinalTask\final\obj\Debug\net6.0\ref\final.dll
